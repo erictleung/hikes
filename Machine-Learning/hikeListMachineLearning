@@ -1,0 +1,95 @@
+{
+  "category": "Machine Learning",
+  "videos": [
+    {
+      "title": "Machine Learning: What is Machine Learning?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is Monte Carlo?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is a Random Forest?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is a Support Vector Machine?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is a Gaussian Process?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is Brownian Motion?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is a Stochastic Process?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is a Neural Network?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is Deep Learning?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What are Clustering Algorithms?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is Feature Engineering?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is Logistic Regression?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is Linear Regression?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is Spark?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    },
+    {
+      "title": "Machine Learning: What is Hadoop?",
+      "complete": false,
+      "script_author": null,
+      "video_author": null
+    }
+  ]
+}
